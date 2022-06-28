@@ -1,0 +1,7 @@
+# History files
+.Rhistory
+.Rapp.history
+# User-specific files
+.Ruserdata
+# Data
+.RData
